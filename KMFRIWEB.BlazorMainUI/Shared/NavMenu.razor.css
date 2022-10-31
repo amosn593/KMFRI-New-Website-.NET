@@ -1,0 +1,8 @@
+.nav-link{
+    height: 42px !important;
+    color: #fff;
+    font-size: 15px !important;
+    text-transform:capitalize !important;
+    display: block;
+}
+
