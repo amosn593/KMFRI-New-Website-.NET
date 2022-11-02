@@ -1,8 +1,8 @@
-.nav-link{
+.Navigation-wrapper {
+    display: flex;
     height: 42px !important;
     color: #fff;
-    font-size: 15px !important;
-    text-transform:capitalize !important;
-    display: block;
+    min-width: 100% !important;
+    justify-content: center !important;
+    background-color: #00ffff !important;
 }
-
