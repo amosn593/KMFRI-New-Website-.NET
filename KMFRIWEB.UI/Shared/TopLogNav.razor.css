@@ -2,7 +2,12 @@
     padding: 25px 25px;
 }
 
+.TopLogoNav__log{
+    width: 120px;
+    height: auto;
+}
+
 .TopLogoNav__heading {
-    margin: 0px 10px;
+    margin: auto;
     color: #003870;
 }
